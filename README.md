@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dhanush Karthick
 - 👀 I’m a Full Stack Developer
-- 🌱 I’m currently learning Angular and other backend stuffs
 - 💞️ I’m looking to collaborate on Github
 - 📫 Feel Free to Collaborate
 
